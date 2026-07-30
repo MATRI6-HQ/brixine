@@ -1,3 +1,5 @@
+const year = document.querySelector('#year');
+
 const projects = [
   {
     name: "The Varanda",
