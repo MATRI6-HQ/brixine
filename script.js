@@ -349,7 +349,7 @@ contactForm.addEventListener("submit", async (event) => {
     });
 
     if (response.ok) {
-      formNote.textContent = "Thank you. Your enquiry is sent to Brickstone AI team.";
+      formNote.textContent = "Thank you. Your enquiry is sent to Brixine AI team.";
       contactForm.reset();
     } else {
       formNote.textContent = "Something went wrong. Please email us directly at hq@matri6.com.";
